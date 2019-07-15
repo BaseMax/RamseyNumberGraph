@@ -1,3 +1,5 @@
 # Ramsey Number
 
-The research about Ramsey Number.
+## Ramsey's theorem
+
+The research about **Ramsey Numbers**.
