@@ -1,12 +1,12 @@
 #!/usr/bin/env python
 ###
 #
-# @Name : RamseyNumber/ramsey_3_3.py
+# @Name : RamseyNumberPython/ramsey_3_3.py
 # @Version : 1.0
 # @Programmer : Max
 # @Date : 2019-07-15
-# @Released under : https://github.com/BaseMax/MongoDbPython/blob/master/LICENSE
-# @Repository : https://github.com/BaseMax/RamseyNumber
+# @Released under : https://github.com/BaseMax/RamseyNumberPython/blob/master/LICENSE
+# @Repository : https://github.com/BaseMax/RamseyNumberPython
 #
 ###
 import math
