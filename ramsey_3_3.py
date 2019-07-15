@@ -1,9 +1,14 @@
+#!/usr/bin/env python
 ###
- # 1.0
- # 2019-07-15
- # Max
- # https://github.com/BaseMax/RamseyNumber
- ###
+#
+# @Name : RamseyNumber/ramsey_3_3.py
+# @Version : 1.0
+# @Programmer : Max
+# @Date : 2019-07-15
+# @Released under : https://github.com/BaseMax/MongoDbPython/blob/master/LICENSE
+# @Repository : https://github.com/BaseMax/RamseyNumber
+#
+###
 import math
 import random
 import sys
