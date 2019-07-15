@@ -1,4 +1,4 @@
-# Ramsey Number
+# Ramsey Number Python
 
 ## Ramsey's theorem
 
