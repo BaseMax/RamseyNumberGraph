@@ -119,5 +119,4 @@ def R(art, *shapes):
 	check()
 r=R(6, 3, 3)
 #r=R(5, 3, 3)
-#r=R(43, 5, 5)
 print(r)
