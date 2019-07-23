@@ -1,4 +1,4 @@
-# Ramsey Number Python
+# Ramsey Number Graph (Python)
 
 ## Ramsey's theorem
 
