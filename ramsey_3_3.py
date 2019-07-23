@@ -1,12 +1,12 @@
 #!/usr/bin/env python
 ###
 #
-# @Name : RamseyNumberPython/ramsey_3_3.py
+# @Name : RamseyNumberGraph/ramsey_3_3.py
 # @Version : 1.0
 # @Programmer : Max
 # @Date : 2019-07-15
-# @Released under : https://github.com/BaseMax/RamseyNumberPython/blob/master/LICENSE
-# @Repository : https://github.com/BaseMax/RamseyNumberPython
+# @Released under : https://github.com/BaseMax/RamseyNumberGraph/blob/master/LICENSE
+# @Repository : https://github.com/BaseMax/RamseyNumberGraph
 #
 ###
 import math
